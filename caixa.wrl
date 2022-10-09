@@ -1,0 +1,14 @@
+#VRML V2.0 utf8
+#box.wrl
+#Uma caixa
+Shape
+{
+    appearance Appearance
+    {material Material
+        {diffuseColor 1.0 0.5 1.0
+        }
+    }
+geometry Box
+    {size 2.5 2.1 1.8
+    }
+}
